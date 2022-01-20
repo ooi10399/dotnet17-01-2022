@@ -33,16 +33,16 @@ declare
 		end
 end
 
---Function
+--Stored Procedure
 create procedure proc_FirstProcedure
 as
 begin
 	print 'Hello from procedure'
 end
---call the function
+--call the Procedure
 exec proc_FirstProcedure
 
---Function with variable
+--Procedure with variable
 create proc proc_PrintResult(@score int)
 as
 begin
@@ -51,14 +51,14 @@ begin
 	else
 		print'Fail'
 end
---call the function
+--call the Procedure
 exec proc_PrintResult 80
 
 --use alter after createed which is run b4 , eddited the function 
 alter proc proc_PrintResult(@score int,@name varchar)
 
---Assign variable to the function output
-	--function
+--Assign variable to the Procedure output
+	--Procedure
 create proc proc_calculate(@amount float,@tax float out)
 as
 begin
@@ -103,21 +103,21 @@ exec proc_PrintPayable '10248'
 
 --Store the value into new table
 
-----function to fetch the value
+----Procedure to fetch the value
 create proc proc_FetchAllCustomers
 as
   select * from Customers
-----call the function
+----call the procedure
 exec proc_FetchAllCustomers
 ----create the table
 create table tblSimple
 (f1 int primary key,
 f2 varchar(20))
-----create function to insert value into the table
+----create procedure to insert value into the table
 create proc proc_InsertIntoSimple(@f1 int,@f2 varchar(20))
 as
   insert into tblSimple values(@f1,@f2)
------call function with parameter
+-----call procedure with parameter
 exec proc_InsertIntoSimple 101,'Hello'
 ----check out the value is it included
 select * from tblSimple
@@ -355,7 +355,7 @@ end
 
 CLOSE cur_account
 DEALLOCATE cur_account
-
+---------------------------------------------------------
 declare 
 @account int,
 @Balance float

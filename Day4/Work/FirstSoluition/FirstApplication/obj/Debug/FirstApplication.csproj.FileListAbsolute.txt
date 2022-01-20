@@ -1,0 +1,7 @@
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day4\Work\FirstSoluition\FirstApplication\bin\Debug\FirstApplication.exe.config
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day4\Work\FirstSoluition\FirstApplication\bin\Debug\FirstApplication.exe
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day4\Work\FirstSoluition\FirstApplication\bin\Debug\FirstApplication.pdb
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day4\Work\FirstSoluition\FirstApplication\obj\Debug\FirstApplication.csproj.AssemblyReference.cache
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day4\Work\FirstSoluition\FirstApplication\obj\Debug\FirstApplication.csproj.CoreCompileInputs.cache
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day4\Work\FirstSoluition\FirstApplication\obj\Debug\FirstApplication.exe
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day4\Work\FirstSoluition\FirstApplication\obj\Debug\FirstApplication.pdb

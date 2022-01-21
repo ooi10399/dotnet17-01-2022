@@ -12,9 +12,20 @@ namespace ClinicModelsLibrary
         public string Experience { get; set; }
         public string Speciality { get; set; }
 
+        
+
         public Doctor()
         {
             Type = "Doctor";
+            Experience = "Specialist";
+            Speciality = "Heart";
+
+
+        }
+
+        public override string ToString()
+        {
+            return base.ToString() + "\nType: " + Type + "\nExperience: " + Experience + "\nSpeciality: " + Speciality;
         }
     }
 }

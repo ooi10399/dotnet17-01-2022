@@ -1,0 +1,24 @@
+Requirements:
+
+doctor 
+-log in
+-view future & past appt 
+-raise payment
+raise payment
+
+patients login payment payment
+-past appt
+-notes during session
+-doctors details
+
+erd weekend
+
+doc can login
+doc can raise payment request
+doc can view future & past appointment
+
+patient can login
+patient can login to make payment
+patient can make appointment
+patient can read peronal appt details
+

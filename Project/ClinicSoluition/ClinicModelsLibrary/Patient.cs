@@ -8,13 +8,20 @@ namespace ClinicModelsLibrary
 {
     class Patient : User
     {
-        public string Name { get; set; }
-        public string Password { get; set; }
+        public string Remarks { get; set; }
+        public string Status { get; set; }
 
 
         public Patient()
         {
             Type = "Patients";
+            Remarks = "Sensitive to Prawn";
+            Status = "Future";
+        }
+
+        public override string ToString()
+        {
+            return base.ToString() + "\nType: " + Type + "\nRemarks: " + Remarks + "\nStatus: " + Status;
         }
     }
 }

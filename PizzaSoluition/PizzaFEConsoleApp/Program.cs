@@ -12,7 +12,7 @@ namespace PizzaFEConsoleApp
         void RegisterCustomers()
         {
             Customer customer = new Customer();
-            customer.TakeCustomerDetailFromUser();
+            customer.TakeCustomerDetailsFromUser();
         }
 
         void DisplayCustomer()

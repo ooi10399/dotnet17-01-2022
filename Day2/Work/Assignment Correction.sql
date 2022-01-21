@@ -1,5 +1,6 @@
 use pubs
 
+
 --Qns 11 Print the first published title in every type (Difficult)
 select title
 from titles
@@ -23,19 +24,18 @@ from titles
 having avg(royalty)< royalty)
 
 --Correction (after G3 discussion)
-select concat(a.au_fname ,' ', a.au_lname) 'Author Name' 
-from authors
-
+select concat(au_fname,' ',au_lname) from authors where au_id in
+(select au_id from titleauthor where title_id in
 (select title_id from titles where royalty>
 (select avg(royalty) from titles))
-
-select * from titles
 
 --Qns 17 Print all the city and the number of pulishers in it, only if the city has more than one publisher
 select * from sales
 
 --Correction (after G3 discussion)
-
+select city,count(pub_id) 'No of publishers' from publishers
+group by city
+having count(pub_id)>1 
 
 --Qns 28 Select the employees who have taken more than 2 orders
 select emp_id
@@ -44,10 +44,9 @@ group by emp_id
 having count(pub_id) > 2
 
  --Correction (after G3 discussion)
-select store_id,count(ord_num) fro sales
-from em
-group by city
-having count(pub_id)>1
+select stor_id, count(ord_num) 'Number of orders' from sales
+group by stor_id
+having count(ord_num)>2
 
 
 

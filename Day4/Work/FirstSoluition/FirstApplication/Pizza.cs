@@ -8,8 +8,14 @@ namespace FirstApplication
 {
     internal class Pizza
     {
-        //int id;
-        //string name;
+        int id;
+        string name;
+        string type;
+        bool isVeg;
+        public void GetPizzaDetails()
+        {
+
+        }
 
     }
 }

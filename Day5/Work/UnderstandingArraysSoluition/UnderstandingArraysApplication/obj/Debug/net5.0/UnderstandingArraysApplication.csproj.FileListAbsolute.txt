@@ -1,0 +1,16 @@
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day5\Work\UnderstandingArraysSoluition\UnderstandingArraysApplication\bin\Debug\net5.0\UnderstandingArraysApplication.exe
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day5\Work\UnderstandingArraysSoluition\UnderstandingArraysApplication\bin\Debug\net5.0\UnderstandingArraysApplication.deps.json
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day5\Work\UnderstandingArraysSoluition\UnderstandingArraysApplication\bin\Debug\net5.0\UnderstandingArraysApplication.runtimeconfig.json
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day5\Work\UnderstandingArraysSoluition\UnderstandingArraysApplication\bin\Debug\net5.0\UnderstandingArraysApplication.runtimeconfig.dev.json
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day5\Work\UnderstandingArraysSoluition\UnderstandingArraysApplication\bin\Debug\net5.0\UnderstandingArraysApplication.dll
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day5\Work\UnderstandingArraysSoluition\UnderstandingArraysApplication\bin\Debug\net5.0\ref\UnderstandingArraysApplication.dll
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day5\Work\UnderstandingArraysSoluition\UnderstandingArraysApplication\bin\Debug\net5.0\UnderstandingArraysApplication.pdb
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day5\Work\UnderstandingArraysSoluition\UnderstandingArraysApplication\obj\Debug\net5.0\UnderstandingArraysApplication.csproj.AssemblyReference.cache
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day5\Work\UnderstandingArraysSoluition\UnderstandingArraysApplication\obj\Debug\net5.0\UnderstandingArraysApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day5\Work\UnderstandingArraysSoluition\UnderstandingArraysApplication\obj\Debug\net5.0\UnderstandingArraysApplication.AssemblyInfoInputs.cache
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day5\Work\UnderstandingArraysSoluition\UnderstandingArraysApplication\obj\Debug\net5.0\UnderstandingArraysApplication.AssemblyInfo.cs
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day5\Work\UnderstandingArraysSoluition\UnderstandingArraysApplication\obj\Debug\net5.0\UnderstandingArraysApplication.csproj.CoreCompileInputs.cache
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day5\Work\UnderstandingArraysSoluition\UnderstandingArraysApplication\obj\Debug\net5.0\UnderstandingArraysApplication.dll
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day5\Work\UnderstandingArraysSoluition\UnderstandingArraysApplication\obj\Debug\net5.0\ref\UnderstandingArraysApplication.dll
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day5\Work\UnderstandingArraysSoluition\UnderstandingArraysApplication\obj\Debug\net5.0\UnderstandingArraysApplication.pdb
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day5\Work\UnderstandingArraysSoluition\UnderstandingArraysApplication\obj\Debug\net5.0\UnderstandingArraysApplication.genruntimeconfig.cache

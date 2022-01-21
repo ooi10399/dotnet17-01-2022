@@ -1,3 +1,4 @@
+-- https://github.com/gayat19/Dotnet17Jan2022/blob/master/Day3/BatchQueries.sql
 use Northwind
 
 -- if else, print, set variable

@@ -1,0 +1,7 @@
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day5\Work\Understanding OOP\Understanding OOP\bin\Debug\Understanding OOP.exe.config
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day5\Work\Understanding OOP\Understanding OOP\bin\Debug\Understanding OOP.exe
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day5\Work\Understanding OOP\Understanding OOP\bin\Debug\Understanding OOP.pdb
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day5\Work\Understanding OOP\Understanding OOP\obj\Debug\Understanding OOP.csproj.AssemblyReference.cache
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day5\Work\Understanding OOP\Understanding OOP\obj\Debug\Understanding OOP.csproj.CoreCompileInputs.cache
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day5\Work\Understanding OOP\Understanding OOP\obj\Debug\Understanding OOP.exe
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day5\Work\Understanding OOP\Understanding OOP\obj\Debug\Understanding OOP.pdb

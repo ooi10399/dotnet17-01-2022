@@ -1,0 +1,7 @@
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day5\Work\UnderstandingInheritanceSoluition\UnderstandingInheritanceApplication\bin\Debug\UnderstandingInheritanceApplication.exe.config
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day5\Work\UnderstandingInheritanceSoluition\UnderstandingInheritanceApplication\bin\Debug\UnderstandingInheritanceApplication.exe
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day5\Work\UnderstandingInheritanceSoluition\UnderstandingInheritanceApplication\bin\Debug\UnderstandingInheritanceApplication.pdb
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day5\Work\UnderstandingInheritanceSoluition\UnderstandingInheritanceApplication\obj\Debug\UnderstandingInheritanceApplication.csproj.AssemblyReference.cache
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day5\Work\UnderstandingInheritanceSoluition\UnderstandingInheritanceApplication\obj\Debug\UnderstandingInheritanceApplication.csproj.CoreCompileInputs.cache
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day5\Work\UnderstandingInheritanceSoluition\UnderstandingInheritanceApplication\obj\Debug\UnderstandingInheritanceApplication.exe
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day5\Work\UnderstandingInheritanceSoluition\UnderstandingInheritanceApplication\obj\Debug\UnderstandingInheritanceApplication.pdb

@@ -16,8 +16,8 @@ namespace FirstApplication
             number1 = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Please enter the second number: ");
             number2 = Convert.ToInt32(Console.ReadLine());//by default is string so need to convert to int to change to same data type
-
-            //float fnum1 = float.Parse(Console.WriteLine());
+            //converting input to float
+            float fnum1 = float.Parse(Console.ReadLine());
         }
         public void Add()
         {

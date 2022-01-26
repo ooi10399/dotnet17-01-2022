@@ -1,0 +1,16 @@
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day6\Work\UnderstandingOverloadingSoluition\UnderstandingOverloadingApplication\bin\Debug\net5.0\UnderstandingOverloadingApplication.exe
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day6\Work\UnderstandingOverloadingSoluition\UnderstandingOverloadingApplication\bin\Debug\net5.0\UnderstandingOverloadingApplication.deps.json
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day6\Work\UnderstandingOverloadingSoluition\UnderstandingOverloadingApplication\bin\Debug\net5.0\UnderstandingOverloadingApplication.runtimeconfig.json
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day6\Work\UnderstandingOverloadingSoluition\UnderstandingOverloadingApplication\bin\Debug\net5.0\UnderstandingOverloadingApplication.runtimeconfig.dev.json
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day6\Work\UnderstandingOverloadingSoluition\UnderstandingOverloadingApplication\bin\Debug\net5.0\UnderstandingOverloadingApplication.dll
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day6\Work\UnderstandingOverloadingSoluition\UnderstandingOverloadingApplication\bin\Debug\net5.0\ref\UnderstandingOverloadingApplication.dll
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day6\Work\UnderstandingOverloadingSoluition\UnderstandingOverloadingApplication\bin\Debug\net5.0\UnderstandingOverloadingApplication.pdb
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day6\Work\UnderstandingOverloadingSoluition\UnderstandingOverloadingApplication\obj\Debug\net5.0\UnderstandingOverloadingApplication.csproj.AssemblyReference.cache
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day6\Work\UnderstandingOverloadingSoluition\UnderstandingOverloadingApplication\obj\Debug\net5.0\UnderstandingOverloadingApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day6\Work\UnderstandingOverloadingSoluition\UnderstandingOverloadingApplication\obj\Debug\net5.0\UnderstandingOverloadingApplication.AssemblyInfoInputs.cache
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day6\Work\UnderstandingOverloadingSoluition\UnderstandingOverloadingApplication\obj\Debug\net5.0\UnderstandingOverloadingApplication.AssemblyInfo.cs
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day6\Work\UnderstandingOverloadingSoluition\UnderstandingOverloadingApplication\obj\Debug\net5.0\UnderstandingOverloadingApplication.csproj.CoreCompileInputs.cache
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day6\Work\UnderstandingOverloadingSoluition\UnderstandingOverloadingApplication\obj\Debug\net5.0\UnderstandingOverloadingApplication.dll
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day6\Work\UnderstandingOverloadingSoluition\UnderstandingOverloadingApplication\obj\Debug\net5.0\ref\UnderstandingOverloadingApplication.dll
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day6\Work\UnderstandingOverloadingSoluition\UnderstandingOverloadingApplication\obj\Debug\net5.0\UnderstandingOverloadingApplication.pdb
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day6\Work\UnderstandingOverloadingSoluition\UnderstandingOverloadingApplication\obj\Debug\net5.0\UnderstandingOverloadingApplication.genruntimeconfig.cache

@@ -1,0 +1,89 @@
+REMEMBER INCLUDE EXIT OR BACK FOR MENU
+
+
+PrintMainMenu()
+ManageMainMenu()
+- call the overrided the Doctor/Patient ManageLogin()
+- validaton enter correct key number
+
+ManageLogin()
+-Dictionary, id and password, validation
+-make it virtual so that can override, for the hello Doctor/Patient
+
+Override ManageLogin()
+- store dictionary data
+- print hello Doctor/Patient
+- plus the base method
+
+
+Upon successful Login......
+Print Doctor/Patient menu [PrintDoctorMenu(),PrintPatientMenu()]
+-MangeDoctorMenu() / ManagePatientMenu()
+
+
+When Exit......
+-End() , override End(), for Doctor/Patient
+...................................................................................................
+Clinic:
+-Program
+-ManageMenu[to run the menu stuff, call method,print]
+-ManageUser[sign up, login]
+-ManageAppointment[CRUD,print]
+
+ClinicModelsLibrary:
+-Doctor[data(Dict),printmenu,printDoctorDetails]
+-Patient[data(Dict),printmenu]
+-User
+
+``````````````````````````````````````````````````````````````````````````````````````````````````````````
+MAIN MENU:
+
+Welcome to the clinic 
+Key in 1 if you are a doctor
+key in 2 if you are a patient
+
+
+``````````````````````````````````````````````````````````````````````````````````````````````````````````
+DOCTOR'S MENU:
+
+Welcome Dr. DDDD
+Choose from the options
+1. View  your appointments
+2. View your past appointments
+3. Update appointment status
+4. Delete appointment
+5. Raise payment request for an appointment
+0. Exit
+
+``````````````````````````````````````````````````````````````````````````````````````````````````````````
+PATIENT'S MENU:
+
+Welcome Ken
+Choose from the options
+1. View  your appointments
+2. View your past appointments
+3. Add new appointment
+4. Edit appointment
+5. Delete appointment
+6. Make payment for an appointment
+0. Exit
+
+``````````````````````````````````````````````````````````````````````````````````````````````````````````
+DIFFERENT TYPE OF APPOINTMENT DETAILS:
+
+Appoitment Id :0025
+Patient Id - 102
+Appoitment Date : 24-Jan-2022
+Appoitment Time : 15:00
+Remarks : blah blah
+Amount  : 50
+Payment status : Pending payment
+-------------------------
+Appoitment Id :0032
+Patient Id - 104
+Appoitment Date : 25-Jan-2022
+Appoitment Time : 15:00
+
+``````````````````````````````````````````````````````````````````````````````````````````````````````````
+
+

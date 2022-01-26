@@ -1,0 +1,18 @@
+	//Conversion to Binary
+            string bits = Convert.ToString(20, 2);
+            int longest = 0;
+            int count = 0;
+	//bits.Length: count the length of the string, Auto in Array
+            for (int i = 0; i < bits.Length; i++)
+            {
+                if (bits[i] == '0')//key:Start from front
+                    count++;
+
+                else
+                {
+                    longest = Math.Max(count, longest);//Comparing the longest
+                    count = 0;
+                }
+            }
+            Console.WriteLine(longest);
+            //if start from back need to do a validility check for is it in btw 1

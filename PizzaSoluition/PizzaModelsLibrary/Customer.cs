@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PizzaModelsLibrary
 {
-    public class Customer
+    public class Customer:IComparable
     {
         public int MinimumAmount { get; set; }
         public int Id { get; set; }
@@ -32,7 +32,7 @@ namespace PizzaModelsLibrary
             MinimumAmount = 100;
             Type = "Standard";
         }
-        public void TakeCustomerDetailsFromUser()
+        public virtual void TakeCustomerDetailsFromUser()//virtual: so that can override in other class
         {
             Console.WriteLine("Please enter the customer ID");
             Id = Convert.ToInt32(Console.ReadLine());
@@ -48,6 +48,17 @@ namespace PizzaModelsLibrary
         public override string ToString()
         {
             return "Customer ID " + Id + "\nCustomer Name " + Name + "\nCustomer Phone " + Phone + "\nCustomer Type " + Type;
+        }
+
+        public int CompareTo(object obj)
+        {
+            Customer c1, c2;
+            c1 = this;
+            c2 = (Customer)obj;
+            //if(c1.Id < c2.Id)return -1;
+            //else if(c1.Id > c2.Id)return -1;
+            //else return 0
+            return c1.Id.CompareTo(c2.Id);
         }
     }
 }

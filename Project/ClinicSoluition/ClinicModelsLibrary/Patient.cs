@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ClinicModelsLibrary
 {
-    class Patient : User
+    public class Patient : User
     {
         public string Remarks { get; set; }
         public string Status { get; set; }

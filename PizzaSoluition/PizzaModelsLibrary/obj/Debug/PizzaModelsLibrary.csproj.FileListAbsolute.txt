@@ -4,3 +4,9 @@ C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day5\Work\PizzaSoluition\PizzaModelsLibrary
 C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day5\Work\PizzaSoluition\PizzaModelsLibrary\obj\Debug\PizzaModelsLibrary.csproj.CoreCompileInputs.cache
 C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day5\Work\PizzaSoluition\PizzaModelsLibrary\obj\Debug\PizzaModelsLibrary.dll
 C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day5\Work\PizzaSoluition\PizzaModelsLibrary\obj\Debug\PizzaModelsLibrary.pdb
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\PizzaSoluition\PizzaModelsLibrary\bin\Debug\PizzaModelsLibrary.dll
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\PizzaSoluition\PizzaModelsLibrary\bin\Debug\PizzaModelsLibrary.pdb
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\PizzaSoluition\PizzaModelsLibrary\obj\Debug\PizzaModelsLibrary.csproj.AssemblyReference.cache
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\PizzaSoluition\PizzaModelsLibrary\obj\Debug\PizzaModelsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\PizzaSoluition\PizzaModelsLibrary\obj\Debug\PizzaModelsLibrary.dll
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\PizzaSoluition\PizzaModelsLibrary\obj\Debug\PizzaModelsLibrary.pdb

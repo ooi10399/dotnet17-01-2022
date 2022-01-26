@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using ClinicModelsLibrary;
+
 
 namespace Clinic
 {
@@ -11,10 +11,10 @@ namespace Clinic
     {
         static void Main(string[] args)
         {
-            User u = new User();
-            u.TakeDetails();
-            u.PrintDetails();
-            Console.ReadKey();
+            //User u = new User();
+            //u.TakeDetails();
+            //u.PrintDetails();
+            //Console.ReadKey();
         }
     }
 }

@@ -1,0 +1,16 @@
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day6\Work\UnderstandingInterfaceSoluition\UnderstandingInterfaceApplication\bin\Debug\net5.0\UnderstandingInterfaceApplication.exe
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day6\Work\UnderstandingInterfaceSoluition\UnderstandingInterfaceApplication\bin\Debug\net5.0\UnderstandingInterfaceApplication.deps.json
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day6\Work\UnderstandingInterfaceSoluition\UnderstandingInterfaceApplication\bin\Debug\net5.0\UnderstandingInterfaceApplication.runtimeconfig.json
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day6\Work\UnderstandingInterfaceSoluition\UnderstandingInterfaceApplication\bin\Debug\net5.0\UnderstandingInterfaceApplication.runtimeconfig.dev.json
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day6\Work\UnderstandingInterfaceSoluition\UnderstandingInterfaceApplication\bin\Debug\net5.0\UnderstandingInterfaceApplication.dll
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day6\Work\UnderstandingInterfaceSoluition\UnderstandingInterfaceApplication\bin\Debug\net5.0\ref\UnderstandingInterfaceApplication.dll
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day6\Work\UnderstandingInterfaceSoluition\UnderstandingInterfaceApplication\bin\Debug\net5.0\UnderstandingInterfaceApplication.pdb
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day6\Work\UnderstandingInterfaceSoluition\UnderstandingInterfaceApplication\obj\Debug\net5.0\UnderstandingInterfaceApplication.csproj.AssemblyReference.cache
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day6\Work\UnderstandingInterfaceSoluition\UnderstandingInterfaceApplication\obj\Debug\net5.0\UnderstandingInterfaceApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day6\Work\UnderstandingInterfaceSoluition\UnderstandingInterfaceApplication\obj\Debug\net5.0\UnderstandingInterfaceApplication.AssemblyInfoInputs.cache
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day6\Work\UnderstandingInterfaceSoluition\UnderstandingInterfaceApplication\obj\Debug\net5.0\UnderstandingInterfaceApplication.AssemblyInfo.cs
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day6\Work\UnderstandingInterfaceSoluition\UnderstandingInterfaceApplication\obj\Debug\net5.0\UnderstandingInterfaceApplication.csproj.CoreCompileInputs.cache
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day6\Work\UnderstandingInterfaceSoluition\UnderstandingInterfaceApplication\obj\Debug\net5.0\UnderstandingInterfaceApplication.dll
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day6\Work\UnderstandingInterfaceSoluition\UnderstandingInterfaceApplication\obj\Debug\net5.0\ref\UnderstandingInterfaceApplication.dll
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day6\Work\UnderstandingInterfaceSoluition\UnderstandingInterfaceApplication\obj\Debug\net5.0\UnderstandingInterfaceApplication.pdb
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day6\Work\UnderstandingInterfaceSoluition\UnderstandingInterfaceApplication\obj\Debug\net5.0\UnderstandingInterfaceApplication.genruntimeconfig.cache

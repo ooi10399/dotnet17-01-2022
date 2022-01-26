@@ -1,0 +1,37 @@
+int N = 26;
+            string output = "";
+            int binary, digitRemainder, count = 0;
+            //Convert to binary
+            while (N > 0)
+            {
+                int r = N % 2;
+                N = N / 2;
+                output = r.ToString() + output;
+            }
+            Console.WriteLine(output);
+            binary = Int32.Parse(output);
+            //Counting the length
+            digitRemainder = binary % 10;
+            while (binary > 0)
+            {
+                if (digitRemainder == 0)
+                {
+                    while (digitRemainder == 0)
+                    {
+                        digitRemainder = binary % 10;
+                        binary = binary / 10;
+                        count = count + 1;
+                    }
+                    Console.WriteLine(count);
+                    count = 0;
+                }
+                else
+                {
+                    while (digitRemainder == 1)
+                    {
+                        digitRemainder = binary % 10;
+                        binary = binary / 10;
+                    }
+                }
+            }
+            //Compare the length

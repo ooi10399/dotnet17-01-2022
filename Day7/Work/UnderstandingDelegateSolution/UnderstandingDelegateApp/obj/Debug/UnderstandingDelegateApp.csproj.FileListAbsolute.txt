@@ -1,0 +1,7 @@
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day7\Work\UnderstandingDelegateSolution\UnderstandingDelegateApp\bin\Debug\UnderstandingDelegateApp.exe.config
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day7\Work\UnderstandingDelegateSolution\UnderstandingDelegateApp\bin\Debug\UnderstandingDelegateApp.exe
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day7\Work\UnderstandingDelegateSolution\UnderstandingDelegateApp\bin\Debug\UnderstandingDelegateApp.pdb
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day7\Work\UnderstandingDelegateSolution\UnderstandingDelegateApp\obj\Debug\UnderstandingDelegateApp.csproj.AssemblyReference.cache
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day7\Work\UnderstandingDelegateSolution\UnderstandingDelegateApp\obj\Debug\UnderstandingDelegateApp.csproj.CoreCompileInputs.cache
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day7\Work\UnderstandingDelegateSolution\UnderstandingDelegateApp\obj\Debug\UnderstandingDelegateApp.exe
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Day7\Work\UnderstandingDelegateSolution\UnderstandingDelegateApp\obj\Debug\UnderstandingDelegateApp.pdb
